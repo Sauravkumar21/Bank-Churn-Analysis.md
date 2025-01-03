@@ -2,6 +2,9 @@
 
 This project focuses on analyzing bank churn data. Churn refers to the number of customers who have left the bank (attrition). This is a practice project using a sample dataset to create reports and gain insights. Below is a detailed overview of the steps and tasks undertaken in this project.
 
+<img width="533" alt="Screenshot 2024-04-06 102636" src="https://github.com/user-attachments/assets/0ab9ea1e-7819-4bae-9ce0-1c0c04e27ee7" />
+
+
 ## Key Steps:
 1. **Data Connection**
 2. **Data Preparation**
